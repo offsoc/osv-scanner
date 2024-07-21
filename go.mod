@@ -35,7 +35,7 @@ require (
 	golang.org/x/sync v0.7.0
 	golang.org/x/term v0.21.0
 	golang.org/x/vuln v1.0.4
-	google.golang.org/grpc v1.64.0
+	google.golang.org/grpc v1.64.1
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/ini.v1 v1.67.0
 	gopkg.in/yaml.v3 v3.0.1
